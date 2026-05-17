@@ -24,10 +24,10 @@
 
 ---
 
-## ⚒️ Tech Stack
+## ⚒️ Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,html,css,bash" />
+  <img src="https://skillicons.dev/icons?i=python,linux,git,github,html,css,bash" />
 </p>
 
 ---
@@ -62,11 +62,27 @@
 
 ## 🚀 Featured Skills
 
+<p align="left">
+
+🌐 Networking Fundamentals  
+🖥️ Computer Hardware & Troubleshooting  
+🔧 PC Assembly & Maintenance  
+🪟 Windows & Linux Operating Systems  
+🛡️ Cybersecurity Fundamentals  
+📊 Excel Dashboard Creation & Data Handling  
+📁 Microsoft Office Package  
+🐍 Python Programming (Learning)  
+💻 GitHub & VS Code  
+☁️ Cloud Computing Enthusiast  
+
+</p>
+
+---
+
+## ⚒️ Tools & Technologies
+
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" width="60"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="60"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="60"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111425.png" width="60"/>
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,github,git,vscode,html,css" />
 </p>
 
 ---
